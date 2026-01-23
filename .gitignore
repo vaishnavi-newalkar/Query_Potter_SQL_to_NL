@@ -5,3 +5,7 @@ __pycache__/
 /uploaded_dbs/
 chat_history.json
 *.md
+*.txt
+*.json
+*.db
+*.bat
